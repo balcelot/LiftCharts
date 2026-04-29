@@ -1,6 +1,6 @@
 Privacy Policy for Lift Charts
 
-Last Updated: April 28, 2026
+Last Updated: April 29, 2026
 
 Overview
 
@@ -16,7 +16,7 @@ Health & Fitness Data
 The App records workout sessions, exercise sets, body weight entries, and nutrition information that you manually enter. This data never leaves your device.
 
 HealthKit
-With your explicit permission, the App may read step count data from Apple HealthKit. This data is used solely to display step tracking information within the App and is handled in accordance with Apple's HealthKit guidelines.
+With your explicit permission, the App may read step count data from Apple HealthKit. This data is used solely to display step tracking information within the App and is handled in accordance with Apple's HealthKit guidelines. The App does not write data to HealthKit.
 
 Location Data
 If you enable GPS tracking for cardio exercises, location data is used only for real-time distance calculation during your workout. Location data is stored locally on your device and is never shared with third parties.
@@ -26,6 +26,9 @@ When you search for foods, the App sends your search text to the OpenFoodFacts A
 
 Barcode Scanning
 When you scan a food barcode, the barcode number is sent to OpenFoodFacts to retrieve product information. No personal data is included in these requests.
+
+Remote Content
+The App fetches publicly available content (such as roadmap updates, announcements, and splash text) from GitHub. These requests do not include any personal or identifying information.
 
 In-App Purchases
 
@@ -43,6 +46,10 @@ Data Export
 
 The App allows you to export your data as a JSON or spreadsheet file. This export is initiated by you and saved to a location you choose. We have no access to exported files.
 
+Data Deletion
+
+Since all data is stored locally on your device, you can delete all App data at any time by deleting the App. No data remains on any external server.
+
 Children's Privacy
 
 The App does not knowingly collect data from children under the age of 13.
@@ -53,5 +60,4 @@ We may update this Privacy Policy from time to time. Changes will be posted on t
 
 Contact
 
-If you have questions about this Privacy Policy, please contact us at:
-liftcharts@gmail.com
+If you have questions about this Privacy Policy, please contact us at: liftcharts@gmail.com
