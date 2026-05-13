@@ -1,63 +1,70 @@
-Privacy Policy for Lift Charts
+Privacy Policy — LiftCharts
 
-Last Updated: April 29, 2026
+Last updated: May 12, 2026
 
-Overview
+LiftCharts ("the App") is designed with your privacy in mind. This policy explains what data the App collects, how it is used, and your rights regarding that data.
 
-Lift Charts ("the App") is a fitness and nutrition tracking app for iOS. Your privacy is important to us. This policy explains what data the App collects, how it is used, and your rights.
+1. Local Data Storage
 
-Data Storage
+All core personal data — including workout logs, body measurements, nutrition entries, and user preferences — is stored locally on your device using Apple's on-device storage. We do not operate our own servers and do not collect, transmit, or store this data remotely.
 
-All personal data — including workout logs, body measurements, nutrition entries, and user preferences — is stored locally on your device. We do not operate servers and do not collect, transmit, or store your personal data remotely.
+2. Social & Community Features
 
-Data We Access
+The App offers optional social features (profiles, following, community leaderboards). If you choose to create a social profile, the following data is stored in Apple's iCloud (CloudKit) public database and may be visible to other users of the App:
 
-Health & Fitness Data
-The App records workout sessions, exercise sets, body weight entries, and nutrition information that you manually enter. This data never leaves your device.
+• Username
+• Fitness level (a computed score, not raw workout data)
+• Selected achievement badges
+• Theme preference
+• Premium subscription status
+• Follow and follower relationships
+• Block relationships (visible only to you)
 
-HealthKit
-With your explicit permission, the App may read step count data from Apple HealthKit. This data is used solely to display step tracking information within the App and is handled in accordance with Apple's HealthKit guidelines. The App does not write data to HealthKit.
+Your raw workout data, body measurements, nutrition logs, and other personal information are never uploaded or shared. Only the summary data listed above is stored in CloudKit.
 
-Location Data
-If you enable GPS tracking for cardio exercises, location data is used only for real-time distance calculation during your workout. Location data is stored locally on your device and is never shared with third parties.
+Social features require you to be at least 13 years of age. Users who have not provided their age or are under 13 cannot create a social profile.
 
-Food Search Queries
-When you search for foods, the App sends your search text to the OpenFoodFacts API and/or the USDA FoodData Central API to retrieve nutritional information. These queries do not include any personally identifying information.
+3. User-Generated Content
 
-Barcode Scanning
-When you scan a food barcode, the barcode number is sent to OpenFoodFacts to retrieve product information. No personal data is included in these requests.
+Usernames and bios are filtered for inappropriate language. Users can block other users and report profiles for violations (offensive username, inappropriate bio, spam, harassment, or other reasons). Reports are stored in CloudKit and include the reporter's account ID, the reported user's account ID, the reason, and any additional detail provided.
 
-Remote Content
-The App fetches publicly available content (such as roadmap updates, announcements, and splash text) from GitHub. These requests do not include any personal or identifying information.
+4. iCloud Account
 
-In-App Purchases
+If you use social features, the App uses your iCloud account identifier to associate your profile. No other iCloud data is accessed. If you do not use social features, no iCloud data is accessed at all.
 
-All payments are processed entirely by Apple through the App Store. We never see, collect, or store any payment or financial information.
+5. Apple HealthKit
 
-No Accounts or Registration
+The App may read step count data from Apple HealthKit with your explicit permission. HealthKit data is used solely to display your step history within the App. The App does not write data to HealthKit. HealthKit data is never shared with third parties or stored remotely.
 
-The App does not require you to create an account, sign in, or provide an email address, name, or any other personal information.
+6. Food Search APIs
 
-No Analytics or Tracking
+When you search for food items, the App sends your search text to the OpenFoodFacts API and/or the USDA FoodData Central API to retrieve nutritional information. No personal data, device identifiers, or account information is included in these requests.
 
-The App does not use any analytics SDKs, advertising frameworks, or tracking technologies. We do not collect usage data, crash reports, or device identifiers.
+7. Analytics & Tracking
 
-Data Export
+The App does not use any analytics SDKs, advertising frameworks, or tracking technologies. We do not collect usage statistics, device fingerprints, or behavioral data.
 
-The App allows you to export your data as a JSON or spreadsheet file. This export is initiated by you and saved to a location you choose. We have no access to exported files.
+8. Account Registration
 
-Data Deletion
+The App does not require you to create an account, sign in, or provide an email address to use core features. Social features use your iCloud account for identity — no separate registration is required.
 
-Since all data is stored locally on your device, you can delete all App data at any time by deleting the App. No data remains on any external server.
+9. Payments
 
-Children's Privacy
+All payments are processed entirely by Apple through the App Store. We do not collect, process, or have access to your payment information.
 
-The App does not knowingly collect data from children under the age of 13.
+10. Data Deletion
 
-Changes to This Policy
+• Local data: Deleting the App from your device removes all locally stored data.
+• Social data: If you have created a social profile, your profile, follow relationships, and block records are stored in Apple's CloudKit. You can delete your username in the App to remove your public profile. Alternatively, deleting the App and signing out of iCloud will disassociate your data.
 
-We may update this Privacy Policy from time to time. Changes will be posted on this page with an updated date.
+11. Children's Privacy
 
-Contact
+Social features are restricted to users age 13 and older. The App does not knowingly collect personal information from children under 13 through its social features. Core features (workout logging, nutrition tracking, etc.) do not collect or transmit any data and are available to users of all ages.
 
-If you have questions about this Privacy Policy, please contact us at: liftcharts@gmail.com
+12. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Any changes will be reflected by the "Last updated" date above.
+
+13. Contact
+
+If you have questions or concerns about this Privacy Policy, contact us at liftcharts@gmail.com.
